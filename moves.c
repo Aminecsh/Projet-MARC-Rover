@@ -2,7 +2,7 @@
 
 #include "moves.h"
 
-/* Prototypes des fonctions locales */
+/* Prototypes des  fonctions locales */
 t_orientation tourner(t_orientation ori, t_deplacement deplacement);
 t_localisation deplacer(t_localisation loc, t_deplacement deplacement, t_map carte);
 
