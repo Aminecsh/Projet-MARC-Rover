@@ -26,10 +26,8 @@ Le projet **MARC Rover Simulation** est un programme permettant de simuler les d
 ## Compilation et Exécution
 
 ### Compilez le projet avec CMake :
-``` bash
-mkdir build
-cd build
-cmake ..
+
+
 make
 ```
 ## Exécuter le programme : 
