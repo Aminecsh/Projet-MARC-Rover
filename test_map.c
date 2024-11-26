@@ -18,7 +18,7 @@ void tester_calculerCouts() {
     // Vérifier que le coût de la station de base est zéro
     t_position pos_base = obtenirPositionBase(carte);
     assert(carte.couts[pos_base.y][pos_base.x] == 0);
-    // Optionnellement, afficher les coûts ou effectuer d'autres assertions
+    // Optionnellement , afficher les coûts ou effectuer d'autres assertions
     libererCarte(carte);
 }
 
