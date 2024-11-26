@@ -7,7 +7,7 @@ void visualiserCarte(t_map carte, t_localisation loc) {
     for (int i = 0; i < carte.y_max; i++) {
         for (int j = 0; j < carte.x_max; j++) {
             if (i == loc.pos.y && j == loc.pos.x) {
-                printf(" M "); // Position actuelle de MARC
+                printf(" M "); // Position actuelle  de MARC
             } else if (carte.sol[i][j] == STATION_BASE) {
                 printf(" B ");
             } else {
