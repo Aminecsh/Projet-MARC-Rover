@@ -6,7 +6,7 @@
 #include "loc.h"
 
 /**
- * @brief Structure pour la file de positions
+ * @brief Structure pour  la file de positions
  */
 typedef struct s_file {
     t_position *valeurs; // Tableau de positions
