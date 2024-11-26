@@ -4,7 +4,7 @@
 #define STACK_H
 
 /**
- * @brief Structure pour la pile des entiers
+ * @brief Structure po ur la pile des entiers
  */
 typedef struct s_pile {
     int *valeurs;      // Tableau de valeurs
