@@ -6,7 +6,7 @@
 #include "map.h"
 
 /**
- * @brief Fonction pour créer un nouveau noeud d'arbre
+ * @brief Fonction pour  créer un nouveau noeud d'arbre
  */
 t_noeud_arbre* creerNoeudArbre(t_localisation loc, int cout, t_deplacement deplacement, t_noeud_arbre *parent) {
     t_noeud_arbre *noeud = (t_noeud_arbre*)malloc(sizeof(t_noeud_arbre));
