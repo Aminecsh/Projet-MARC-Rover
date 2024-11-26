@@ -23,11 +23,6 @@ Le projet **MARC Rover Simulation** est un programme permettant de simuler les d
 - Un environnement de développement C (compilateur GCC ou Clang recommandé).
 - `CMake` pour la gestion de la construction.
 
-## Installation
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/marc-rover-simulation.git
-   cd marc-rover-simulation
 ## Compilation et Exécution
 
 ### Compilez le projet avec CMake :
