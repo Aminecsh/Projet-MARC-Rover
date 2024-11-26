@@ -7,7 +7,7 @@
 #include "map.h"
 
 /**
- * @brief Fonction pour exécuter la simulation
+ * @brief Fonction pour exécuter la simulation 
  * @param carte : la carte
  * @param loc_depart : localisation de départ de MARC
  */
